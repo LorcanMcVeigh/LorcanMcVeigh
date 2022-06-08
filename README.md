@@ -1,6 +1,6 @@
 ### Hi there, I'm Lorcan! 👋
 
-- 🔭 I’m currently working at F5 Networks!
+- 🔭 I’m currently working at Tigera!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: put more work into my side projects
 - 💬 Ask me about anything related to Marvel or DC comics 🦸
