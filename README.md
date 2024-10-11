@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working at Tigera!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: put more work into my side projects
-- 💬 Ask me about anything related to Marvel or DC comics 🦸
-- ⚡ Fun fact: I'm training to become a qualified Personal Trainer
+- 🥅 2024 Goals: put more work into my side projects
+- 💬 Talk to me about anything 🦸
 -->
 
 ### 🧑‍💻 Languages and Technologies
