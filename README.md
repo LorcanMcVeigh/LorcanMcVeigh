@@ -1,8 +1,8 @@
 ### Hi there, I'm Lorcan! 👋
 
-- 🔭 I’m currently working at Tigera!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: put more work into my side projects
+- 🔭 I’m currently working at Workday!
+- 🌱 I’m currently learning to Sail.
+- 🥅 2026 Goals: put more work into my side projects
 - 💬 Talk to me about anything 🦸
 -->
 
