@@ -1,6 +1,6 @@
 ### Hi there, I'm Lorcan! 👋
 
-- 🔭 I’m currently working at Workday!
+- 🔭 I’m currently working at Qumulo!
 - 🌱 I’m currently learning to Sail.
 - 🥅 2026 Goals: put more work into my side projects
 - 💬 Talk to me about anything 🦸
